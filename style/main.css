@@ -6,6 +6,7 @@
 body{
     background: var(--preta);
     font-family: 'Times New Roman', Times, serif;
+    color: #fff;
 }
 
 *{
@@ -36,4 +37,14 @@ header nav a{
 
 header nav a:hover{
     color: #fff;
+}
+
+/* RELACIONADO AO FILME PRINCIPAL */
+
+.filme-principal{
+    font-size: 16px;
+    background: linear-gradient(rgba(0,0,0, .50),rgba(0,0,0, .50) 100%), url('/img/naruto.jpg');
+    height: 400px;
+    background-size: cover;
+
 }
