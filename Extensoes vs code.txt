@@ -1,0 +1,2 @@
+live server - para atualizar paginas automaticamente.
+Auto rename tag - para atualizar o fechamento de tags html
