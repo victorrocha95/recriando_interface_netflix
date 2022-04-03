@@ -64,6 +64,10 @@ header nav a:hover{
     font-family: 'Trebuchet MS', Arial, sans-serif;
 }
 
+.filme-principal .container{
+    width: 40%;
+}
+
 .botao{
     background-color: rgba(0,0,0, .50);
     border: none;
@@ -82,4 +86,12 @@ header nav a:hover{
 
 .botao i{
     margin-right: 8px;
+}
+
+/* WRAPPER = ENVELOPAR */
+
+.box-filme{
+    height: 100%;
+    width: 100%;
+    display: block;
 }
